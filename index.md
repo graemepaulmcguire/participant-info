@@ -42,7 +42,7 @@ If you decide to take part:
     
 
   
-Participants will receive a **small nominal payment ** in appreciation of their time.
+Participants will receive a small nominal payment in appreciation of their time.
 
 [Here](https://www.youtube.com/watch?v=pf_KpTWr4kw&t=613s) is a link to a Youtube video of researchers from the Yale Phonetics Lab carrying out an EMA experiment in Ghana.
 
