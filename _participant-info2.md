@@ -85,12 +85,3 @@ This PhD project is jointly supervised by:
 
 ---
 
-
----
-ALSO!!!
-___
-
-title: "Participant Information"
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-  - jekyll-remote-theme
