@@ -25,7 +25,7 @@ We are looking for native speakers of Scottish Gaelic to participate in a resear
 
 We are conducting a study using [**electromagnetic articulography (EMA)**](https://en.wikipedia.org/wiki/Electromagnetic_articulography) to investigate the movements of the tongue, lips, and jaw during speech.
 
- Most articulatory data of this kind comes from widely spoken languages such as English and Mandarin Chinese. Gaelic is of interest because it includes some typologically uncommon sounds. By including Gaelic, we aim to contribute to the scientific understanding of speech production and ensure that minority languages are represented in the wider literature.
+Most articulatory data of this kind comes from widely spoken languages such as English and Mandarin Chinese. Gaelic is of interest because it includes some typologically uncommon sounds. By including Gaelic, we aim to contribute to the scientific understanding of speech production and ensure that minority languages are represented in the wider literature.
 
 ---
 
@@ -63,7 +63,11 @@ Electromagnetic articulography is a **biologically safe** and **non-invasive** m
 
 ## **About Me**
 
-I am jointly enrolled in a cotutelle PhD programme at National Tsing Hua University and Macquarie University. In the past, I have studied articulatory data in languages such as L2 English and Vietnamese. I am interested in Gaelic not only from a phonetics point of view but also because it was my grandmother’s first language, and I have been trying to learn it myself over the past few years (with limited success so far!). Through this project, I hope to contribute to our understanding of speech production, and also, in some small way, to the preservation of Gaelic and its visibility in research.
+I am jointly enrolled in a cotutelle PhD programme at National Tsing Hua University and Macquarie University. In the past, I have studied articulatory data in languages such as L2 English and Vietnamese. My interest in Gaelic is not only phonetic and linguistic, but also personal, as it was my grandmother’s first language. Over the past few years, I have been trying to learn to speak and read it myself (slowly, and with only limited success so far!), which has deepened my appreciation for the language’s richness and complexity. I aim to document the articulatory patterns of native speakers, contributing both to our understanding of speech production and to the preservation and visibility of Gaelic in research.
+
+I sincerely appreciate your time in reading this.
+
+My CV is [here](CV2024EngCh.pdf). 
 
 You can contact me at: graemepaulmcguire \[at] gmail \[dot] com
 
@@ -75,11 +79,11 @@ This PhD project is jointly supervised by:
 
 **National Tsing Hua University, Taiwan**
 
-- Supervisor: [Feng-fan Hsieh](https://ling.site.nthu.edu.tw/p/406-1400-166961,r6425.php?Lang=en)
+- Supervisor: [Dr Feng-fan Hsieh](https://ling.site.nthu.edu.tw/p/406-1400-166961,r6425.php?Lang=en)
 
 **Macquarie University, Australia**
 
-- Supervisor: [Michael Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor)
+- Supervisor: [Dr Michael Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor)
 
 
 
