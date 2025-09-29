@@ -67,7 +67,7 @@ I am jointly enrolled in a cotutelle PhD programme at National Tsing Hua Univers
 
 I sincerely appreciate your time in reading this.
 
-My CV is [here](CV2024EngCh.pdf). 
+My CV is [here](CV2024Eng.pdf). 
 
 You can contact me at: graemepaulmcguire \[at] gmail \[dot] com
 
