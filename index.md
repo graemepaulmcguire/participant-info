@@ -25,7 +25,7 @@ My CV is [here](CV2025.pdf).
 
 ##  Participants
 
-For the first phase of the study, we are particularly hoping to work with **native speakers of  Gaelic**.
+For the first phase of the study, we are particularly hoping to work with native speakers of  Gaelic.
 
 By _native speaker_, we mean:
 
