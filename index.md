@@ -32,7 +32,7 @@ By _native speaker_, we mean:
 - You learned Gaelic from one or more of your parents or caregivers during childhood.  
 - You continue to use Gaelic in daily life, for example with family, friends, or in your community.  
 
-In a later phase, we also hope to include participants who have gone through **Gaelic-medium education** or speak Gaelic fluently. The distinction is only for practical reasons: we start with native speakers to establish a baseline for the study. 
+In a later phase, we also hope to include participants who have gone through Gaelic-medium education or speak Gaelic fluently. The distinction is only for practical reasons: we start with native speakers to establish a baseline for the study. 
 
 ---
 
@@ -66,7 +66,7 @@ Electromagnetic articulography and ultrasound tongue imaging are **biologically 
 
 ---
 
-**My PhD Supervisors**
+## My PhD Supervisors
 
 - [Feng-fan Hsieh](https://ling.site.nthu.edu.tw/p/406-1400-166961,r6425.php?Lang=en), National Tsing Hua University, Taiwan
     
